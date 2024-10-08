@@ -64,3 +64,6 @@ By the end of this project, the e-commerce site is equipped with an efficient, d
    ```bash
    git clone https://github.com/HuXn-WebDev/React-Ecommerce-Search-Filter.git
 
+
+![Final look of the project](public/final_Looks.png)
+
